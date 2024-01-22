@@ -8,6 +8,7 @@ Check out some of my projects, most of them are posted here.
 > [!WARNING]
 > Most of the random forks are barely modified
 
+![](https://komarev.com/ghpvc/?username=fortato)
 <!--
 
 - 🔭 I’m currently working on ...
