@@ -6,9 +6,14 @@ Check out my projects, some of them are posted here.
 - :us: Born and raised in Cali :bear:
 - :nerd_face: Linux enthusiast
 - :camera_flash: [Youtuber](https://youtube.com/deadlyfortato)
+
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fortato&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Fortato's Github Stats">
+<a href="https://github.com/fortato">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fortato&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortato&theme=buefy&layout=compact" />
+</a>
 <br>
+
 > [!WARNING]
 > Most of the random forks are barely modified
 
