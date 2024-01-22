@@ -1,10 +1,17 @@
 ### Hi there 👋
 
+<<<<<<< HEAD
+## Welcome to my page!
+Check out some of my projects, most of them are posted here.
+- 📫 How to reach me: fortatobusiness@gmail.com 
+- :us: Born and raised: Cali :bear:
+
+> [!CAUTION]
+> Ignore most of the random forks, they are usually barely modified. 
+=======
+
 
 <!--
-**Fortato/Fortato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,6 +19,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
