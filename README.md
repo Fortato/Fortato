@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Welcome to my page!
-Check out some of my projects, most of them are posted here.
+Check out my projects, some of them are posted here.
 - 📫 Contact me at: fortatobusiness@gmail.com or <a href="https://discord.gg/"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
 - :us: Born and raised in Cali :bear:
 - :nerd_face: Linux enthusiast
