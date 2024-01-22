@@ -2,12 +2,11 @@
 
 ## Welcome to my page!
 Check out some of my projects, most of them are posted here.
-- 📫 How to reach me: fortatobusiness@gmail.com 
+- 📫 Contact me at: fortatobusiness@gmail.com or <a href="https://discord.gg/"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
 - :us: Born and raised in Cali :bear:
 
-> [!CAUTION]
-> Ignore most of the random forks, they are usually barely modified. 
-
+> [!WARNING]
+> Most of the random forks are barely modified
 
 <!--
 
