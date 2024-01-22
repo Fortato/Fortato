@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-<<<<<<< HEAD
 ## Welcome to my page!
 Check out some of my projects, most of them are posted here.
 - 📫 How to reach me: fortatobusiness@gmail.com 
-- :us: Born and raised: Cali :bear:
+- :us: Born and raised in Cali :bear:
 
 > [!CAUTION]
 > Ignore most of the random forks, they are usually barely modified. 
-=======
 
 
 <!--
