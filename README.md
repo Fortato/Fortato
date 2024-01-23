@@ -5,7 +5,7 @@ Check out my projects, some of them are posted here.
 - 📫 Contact me at: [![Mail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fortatobusiness@gmail.com)](mailto:fortatobusiness@gmail.com) or <a href="https://discord.gg/"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
 - :us: Born and raised in Cali :bear:
 - :nerd_face: Linux enthusiast
-- :camera_flash: Find me on Youtube at: [![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white&link=https://youtube.com/deadlyfortato)](https://youtube.com/deadlyfortato)
+- :camera_flash: Find me on Youtube at: [![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=flat-square&logo=Youtube&logoColor=white&link=https://youtube.com/deadlyfortato)](https://youtube.com/deadlyfortato)
 
 <br>
 
