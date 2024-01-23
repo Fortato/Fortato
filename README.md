@@ -6,7 +6,7 @@ Check out my projects, some of them are posted here.
 - :us: Born and raised in Cali :bear:
 - :nerd_face: Linux enthusiast
 <br>
- [![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white&link=https://youtube.com/deadlyfortato)](https://youtube.com/deadlyfortato)
+- :flashing_camera: Find me on Youtube at: [![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white&link=https://youtube.com/deadlyfortato)](https://youtube.com/deadlyfortato)
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fortato&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Fortato's Github Stats">
@@ -29,3 +29,6 @@ Check out my projects, some of them are posted here.
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[def]: https://youtube.com/deadlyfortato
