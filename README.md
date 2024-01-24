@@ -6,6 +6,7 @@ Check out my projects, some of them are posted here.
 - :us: Born and raised in Cali :bear:
 - :nerd_face: Linux enthusiast
 - :camera_flash: Find me on Youtube at: [![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=flat-square&logo=Youtube&logoColor=white&link=https://youtube.com/deadlyfortato)](https://youtube.com/deadlyfortato)
+- :computer: Check out my [Website](https://fortato.github.io/)
 
 <br>
 
